@@ -1,6 +1,6 @@
 # Hi there, I'm Santosh Pathak! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh_Pathak-blue)](https://linkedin.com/in/santosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santosh_Pathak-blue)](nkedin.com/in/santosh-pathak987)
 [![Email](https://img.shields.io/badge/Email-pathaksantosh987@gmail.com-red)](mailto:pathaksantosh987@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Santosh_Pathak-green)](https://github.com/Santosh-Pathak)
 
