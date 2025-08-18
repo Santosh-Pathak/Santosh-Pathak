@@ -83,7 +83,7 @@ Bachelor of Science in Computer Science (8.00 CGPA)
 
 ## 📬 Let's Connect!
 - **Email**: [pathaksantosh987@gmail.com](mailto:pathaksantosh987@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/santosh]([https://linkedin.com/in/santosh](https://www.linkedin.com/in/santosh-pathak-68a971214/))  
+- **LinkedIn**: [linkedin.com/in/santosh](https://www.linkedin.com/in/santosh-pathak-68a971214/)  
 - **GitHub**: [github.com/Santosh-Pathak](https://github.com/Santosh-Pathak)  
 
 ---
