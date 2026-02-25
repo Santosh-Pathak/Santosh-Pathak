@@ -1,194 +1,130 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=190&section=header&text=Santosh%20Pathak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Architect&descAlignY=56&descSize=18" width="100%"/>
+
 <div align="center">
 
-# Hi, I'm Santosh Pathak 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7F7&center=true&vCenter=true&width=600&lines=Building+Enterprise+Systems+%F0%9F%9A%80;Full+Stack+%7C+DevOps+%7C+Cloud+%7C+Linux;1900%2B+DSA+Problems+%7C+Top+5%25+Global+%F0%9F%8F%86;AIR-1+%E2%80%94+Coding+Ninjas+Ninja+Dominator;TypeScript+%7C+Next.js+%7C+Node.js+%7C+AWS+%7C+Azure)](https://git.io/typing-svg)
 
-### Full Stack Developer | Problem Solver | Open Source Contributor
+<p>
+  <a href="https://santosh-portfolio-olive.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/santosh-pathak987"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pathaksantosh987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/21011177/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/pathaksantosh987/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santosh-pathak-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-pathak-68a971214/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathaksantosh987@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/21011177/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Santosh-Pathak&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Santosh-Pathak&color=6eadff&style=flat-square&label=Profile+Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-I'm a passionate **Full Stack Developer** at **Tedekstra, UK**, specializing in building scalable enterprise applications. With **1900+ problems solved** across competitive programming platforms and a **Top 5% global ranking**, I combine strong problem-solving skills with modern web development expertise.
-
-- 🌍 Based in UK (Remote) / India
-- 💼 Building enterprise CRM systems and real-time applications
-- 🎯 Focused on performance optimization and scalable architecture
-- 🤝 Open to collaborating on innovative projects
-
----
-
-## 💼 Experience
-
-### **Full Stack Developer** @ Tedekstra, UK
-*Current | Remote*
-
-Building enterprise-level CRM systems and job management platforms for UK clients.
-
-**Key Projects:**
-- **Case Management CRM** - Comprehensive customer relationship management with analytics
-- **Jobber App** - Real-time job tracking and scheduling platform
-- **Energized Earth CRM** - Lead management and conversion tracking system
-
-**Impact:**
-- ✅ Improved system performance by **40%** through optimization
-- ✅ Delivered **3 major CRM projects** on time
-- ✅ Implemented secure authentication and RBAC
-
-**Tech Stack:** TypeScript, Next.js, Node.js, MongoDB, Redis, Azure, Terraform
-
-### **Software Engineer Intern** @ GEU Technology Business Incubator
-*Jul 2024 - Oct 2024 | Dehradun, UK*
-
-**JobHunt Platform** - Job-seeking platform serving **500+ recruiters**
-- ✅ Reduced system latency by **25%** with API optimization
-- ✅ Enhanced security with JWT & OAuth 2.0
-- ✅ Automated CI/CD pipelines with Jenkins
-
-**Tech Stack:** MERN, Redis, Jenkins
+```yaml
+name     : Santosh Pathak
+role     : Full Stack Developer @ Tedekstra, UK  (Remote)
+location : Dehradun, India 🇮🇳
+education: B.Tech CS — Graphic Era Hill University  |  CGPA: 8.0
+focus    :
+  - Enterprise CRM & Real-time Applications
+  - Cloud Infrastructure  (AWS · Azure)
+  - DevOps, CI/CD & Linux Systems
+achievements:
+  - 🥇 AIR-1  — Coding Ninjas Ninja Dominator
+  - 🏆 1900+ Problems Solved  |  Top 5% Global
+  - 🥈 2nd Place — Hack-o-Holic 24hr Hackathon
+  - 🦈 Pull Shark ×2  |  Open Source Contributor
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
+**💻 Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,bash,python&theme=dark"/>
+</p>
+
+**🎨 Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark"/>
+</p>
+
+**⚙️ Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase&theme=dark"/>
+</p>
+
+**☁️ Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,terraform,jenkins,git,nginx&theme=dark"/>
+</p>
+
+**🔧 Tools & Infra**
+<p>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EBS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🏢 Experience
+
+**Full Stack Developer · Tedekstra, UK** *(Current | Remote)*
+> Enterprise CRM & job management platforms using Next.js, Node.js, MongoDB, Redis, Azure & Terraform. Delivered **3 CRM projects on time**, improved performance by **40%**, implemented RBAC auth.
+
+**Software Engineer Intern · GEU Technology Business Incubator** *(Jul – Oct 2024)*
+> Built **JobHunt** — a job portal for **500+ recruiters**. Cut API latency by **25%**, integrated JWT/OAuth 2.0, automated CI/CD with Jenkins.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏢 **[JobHunt Platform](https://github.com/Santosh-Pathak)** | Job portal · 500+ recruiters · 25% latency cut | MERN · Redis · Jenkins |
+| 🎥 **[VideoTube Clone](https://github.com/Santosh-Pathak)** | Video streaming with Cloudinary & real-time uploads | MERN · Cloudinary · JWT |
+| 💰 **[Xcrypto Tracker](https://github.com/Santosh-Pathak)** | Live crypto dashboard · 35% API latency boost | React · CoinGecko · Chart.js |
+| 📋 **[Case Mgmt CRM](https://github.com/Santosh-Pathak)** | Enterprise CRM with analytics & RBAC | Next.js · MongoDB · Azure |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Santosh-Pathak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Pathak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+</div>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Pathak&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Pathak&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
-
-| 🥇 Competitive Programming | 💻 Projects | 🎓 Certifications |
-|:---:|:---:|:---:|
-| **1900+ Problems Solved** | **3 Enterprise CRMs** | **DSA Mastery** |
-| Top 5% Global Ranking | 500+ Active Users | MongoDB Expert |
-| AIR-1 Coding Ninjas | 40% Performance Boost | Advanced C++ |
-
-</div>
-
-### 🌟 Highlights
-- 🥇 **AIR-1** - Coding Ninjas Ninja Dominator Contest
-- 🥈 **2nd Place** - Hack-o-Holic 24h Hackathon
-- 🎯 **1100+ LeetCode** | **800+ GeeksForGeeks** Problems
-- 🦈 **Pull Shark x2** - Active Open Source Contributor
-
----
-
-## 📊 Featured Projects
-
-### 🏢 JobHunt Platform
-**Full-stack job portal serving 500+ recruiters**
-
-- Reduced system latency by **25%** with Redis caching
-- Implemented JWT authentication and role-based access
-- Cloud-based resume storage and applicant tracking
-
-**Tech:** MongoDB, Express, React, Node.js, Redis
-
-### 🎥 VideoTube Clone
-**High-performance video streaming platform**
-
-- Real-time video uploads with Cloudinary integration
-- Scalable React frontend with dynamic routing
-- RESTful APIs for seamless communication
-
-**Tech:** MERN Stack, Cloudinary, JWT
-
-### 💰 Xcrypto Tracker
-**Real-time cryptocurrency market tracker**
-
-- Live price alerts and market analysis dashboard
-- Reduced API latency by **35%** with smart caching
-- Mobile-responsive design with Chart.js
-
-**Tech:** React, Axios, CoinGecko API, Chart.js
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santosh-Pathak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Pathak&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Pathak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**  
-Graphic Era Hill University, Dehradun | Aug 2021 - June 2025  
-CGPA: 8.00/10.0
-
-**Relevant Coursework:** Data Structures & Algorithms, Database Management, Operating Systems, OOP, Computer Architecture
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-pathak-68a971214/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santosh-pathak-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathaksantosh987@gmail.com)
-
-**Open to collaborating on innovative projects and opportunities!**
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Santosh-Pathak&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="95%"/>
 </div>
 
 ---
 
 <div align="center">
 
-*"Building scalable solutions, one line of code at a time"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+*"Infrastructure is code. Scalability is a mindset."*
 
 </div>
