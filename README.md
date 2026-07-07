@@ -216,44 +216,6 @@ leetcode  : https://leetcode.com/u/21011177/
   <img src="https://raw.githubusercontent.com/Santosh-Pathak/Santosh-Pathak/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
-> ⚙️ **One-time setup** so the snake above actually renders in your **profile repo** (`Santosh-Pathak/Santosh-Pathak`):
-> 1. **Settings → Actions → General** → enable *"Read and write permissions"* for `GITHUB_TOKEN`
-> 2. Add `.github/workflows/snake.yml` (below), commit it, then run it once from the **Actions** tab
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate the snake game from a GitHub user's contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Santosh-Pathak
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push the generated files to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 ---
 
 ```bash
