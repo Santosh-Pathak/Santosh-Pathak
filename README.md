@@ -1,130 +1,263 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=190&section=header&text=Santosh%20Pathak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20DevOps%20%7C%20Cloud%20Architect&descAlignY=56&descSize=18" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6EE7F7&center=true&vCenter=true&width=600&lines=Building+Enterprise+Systems+%F0%9F%9A%80;Full+Stack+%7C+DevOps+%7C+Cloud+%7C+Linux;1900%2B+DSA+Problems+%7C+Top+5%25+Global+%F0%9F%8F%86;AIR-1+%E2%80%94+Coding+Ninjas+Ninja+Dominator;TypeScript+%7C+Next.js+%7C+Node.js+%7C+AWS+%7C+Azure)](https://git.io/typing-svg)
+```
+ ██████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗
+██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║
+╚█████╗ ███████║██╔██╗ ██║   ██║   ██║   ██║███████╗███████║
+ ╚═══██╗██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║██╔══██║
+██████╔╝██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
+                    P A T H A K   —   S D E
+```
 
-<p>
-  <a href="https://santosh-portfolio-olive.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/santosh-pathak987"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pathaksantosh987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/21011177/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/pathaksantosh987/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=6EE7F7&center=true&vCenter=true&width=650&lines=Software+Development+Engineer+%40+Tedekstra;Full+Stack+%7C+Cloud+%7C+DevOps+%7C+System+Design;1%2C200%2B+DSA+Problems+Solved+%7C+LeetCode)](https://leetcode.com/u/21011177/)
 
 <img src="https://komarev.com/ghpvc/?username=Santosh-Pathak&color=6eadff&style=flat-square&label=Profile+Views"/>
 
 </div>
 
----
+<br>
 
-## ⚡ About Me
+```bash
+santosh@dev:~$ whoami
+```
+```
+Santosh Pathak
+Software Development Engineer @ Tedekstra (Remote, UK)
+Based in Dehradun, India 🇮🇳
+1+ year professional · 3+ years hands-on full-stack development
+```
 
-```yaml
-name     : Santosh Pathak
-role     : Full Stack Developer @ Tedekstra, UK  (Remote)
-location : Dehradun, India 🇮🇳
-education: B.Tech CS — Graphic Era Hill University  |  CGPA: 8.0
-focus    :
-  - Enterprise CRM & Real-time Applications
-  - Cloud Infrastructure  (AWS · Azure)
-  - DevOps, CI/CD & Linux Systems
-achievements:
-  - 🥇 AIR-1  — Coding Ninjas Ninja Dominator
-  - 🏆 1900+ Problems Solved  |  Top 5% Global
-  - 🥈 2nd Place — Hack-o-Holic 24hr Hackathon
-  - 🦈 Pull Shark ×2  |  Open Source Contributor
+```bash
+santosh@dev:~$ ls -la
+```
+```
+drwxr-xr-x  Experience/
+drwxr-xr-x  Projects/
+drwxr-xr-x  Skills/
+drwxr-xr-x  Education/
+drwxr-xr-x  Achievements/
+-rw-r--r--  contact.txt
+-rw-r--r--  contribution_snake.sh
 ```
 
 ---
 
-## 🛠️ Tech Stack
+### `~$ cd Experience && ls`
 
-**💻 Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,bash,python&theme=dark"/>
-</p>
+```
+tedekstra_sde.md    tbi_geu_intern.md
+```
 
-**🎨 Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark"/>
-</p>
+```bash
+santosh@dev:~/Experience$ cat tedekstra_sde.md
+```
+> **Software Development Engineer · [Tedekstra](https://tedekstra.com/), UK** — *Remote · Jul 2025 – Present*
+>
+> **Trak-Entries** (Motorsport Event & Club Management Platform)
+> Production-grade platform serving **100+ racing clubs** and **3,000+ users**, supporting 12+ event types with 1,000+ entries at **98% uptime**.
+> - Built RESTful backend services with RBAC and a resource reservation/locking mechanism to prevent double-booking under high-concurrency event entries
+> - Cut data-retrieval latency by **60%** via compound indexing, MongoDB aggregation pipeline tuning, and explicit projections
+>
+> **Energised Earth CRM** (Sustainable Energy Solutions)
+> Full-stack internal CRM (React, TypeScript, Node.js, MongoDB) consolidating opportunity, job, contact, and task-management workflows for **1,000+ opportunities** and **200+ contacts**.
+> - Built CI/CD pipelines with GitHub Actions & Docker; load-tested APIs with Grafana k6 and Artillery
 
-**⚙️ Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase&theme=dark"/>
-</p>
-
-**☁️ Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,terraform,jenkins,git,nginx&theme=dark"/>
-</p>
-
-**🔧 Tools & Infra**
-<p>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EBS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
+```bash
+santosh@dev:~/Experience$ cat tbi_geu_intern.md
+```
+> **Software Development Intern · [TBI-GEU](https://tbi.geu.ac.in/)** — *Jul 2024 – Oct 2024*
+>
+> Contributed to **JobHunt**, a full-stack MERN job portal enabling recruiters to post/manage listings and jobseekers to search, filter, and apply in real time.
+> - Containerized the app with a multi-stage Docker build for optimized image size
+> - Wrote unit tests with Jest; followed Agile/Scrum with regular code reviews and sprint planning
 
 ---
 
-## 🏢 Experience
+### `~$ cd Projects && ls -la`
 
-**Full Stack Developer · Tedekstra, UK** *(Current | Remote)*
-> Enterprise CRM & job management platforms using Next.js, Node.js, MongoDB, Redis, Azure & Terraform. Delivered **3 CRM projects on time**, improved performance by **40%**, implemented RBAC auth.
+```
+-rwxr-xr-x  easyshop.md        Apr 2026 – Present
+-rwxr-xr-x  wanderlust.md
+-rwxr-xr-x  codeforces_insights.md
+-rwxr-xr-x  jobhunt.md
+```
 
-**Software Engineer Intern · GEU Technology Business Incubator** *(Jul – Oct 2024)*
-> Built **JobHunt** — a job portal for **500+ recruiters**. Cut API latency by **25%**, integrated JWT/OAuth 2.0, automated CI/CD with Jenkins.
+```bash
+santosh@dev:~/Projects$ cat easyshop.md
+```
+> ### 🛒 [EasyShop — E-Commerce Platform](https://github.com/Santosh-Pathak/E-Commerce-App)
+> `Next.js` `TypeScript` `MongoDB` `Docker` `Terraform` `Kubernetes` `AWS EC2`
+> - Full-stack e-commerce platform with RESTful services for auth, product search, cart management, and order tracking
+> - Reduced Docker image size by **70%** via multi-stage builds; deployed to AWS EKS with a Jenkins CI/CD pipeline using Groovy-based shared libraries for build, test, and Trivy security scanning
+
+```bash
+santosh@dev:~/Projects$ cat wanderlust.md
+```
+> ### ✈️ [WanderLust — Travel Blogging Platform](https://github.com/Santosh-Pathak/WanderLust)
+> `MERN` `Cloudinary`
+> - Full-stack travel blogging platform with auth, image upload/storage, and full CRUD for listings, structured with clean, modular MVC architecture
+> - Integrated Cloudinary for image delivery and solved an N+1 query problem to optimize MongoDB reads; containerized with automated build/test/deploy
+
+```bash
+santosh@dev:~/Projects$ cat codeforces_insights.md
+```
+> ### 📊 [Codeforces Insights — Competitive Programming Analytics](https://github.com/Santosh-Pathak/Codeforces-Profile-Visualizer)
+> `React` `Chart.js` `Vitest`
+> - Responsive React SPA consuming the Codeforces REST API to visualize rating history, contest analytics, submission heatmaps, and tag strengths across 20+ interactive sections
+> - Lazy-loaded routes, memoized charts, and virtualized tables (`react-window`); unit + property-based tests (`Vitest` + `fast-check`); deployed on Vercel
+
+```bash
+santosh@dev:~/Projects$ cat jobhunt.md
+```
+> ### 🏢 [JobHunt — MERN Job Portal](https://github.com/Santosh-Pathak/jobHunt)
+> `MERN` `Docker` `Jest`
+> - Full-stack job portal for recruiters to post/manage listings and jobseekers to search, filter, and apply in real time
 
 ---
 
-## 🚀 Featured Projects
+### `~$ cd Skills && ls`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏢 **[JobHunt Platform](https://github.com/Santosh-Pathak)** | Job portal · 500+ recruiters · 25% latency cut | MERN · Redis · Jenkins |
-| 🎥 **[VideoTube Clone](https://github.com/Santosh-Pathak)** | Video streaming with Cloudinary & real-time uploads | MERN · Cloudinary · JWT |
-| 💰 **[Xcrypto Tracker](https://github.com/Santosh-Pathak)** | Live crypto dashboard · 35% API latency boost | React · CoinGecko · Chart.js |
-| 📋 **[Case Mgmt CRM](https://github.com/Santosh-Pathak)** | Enterprise CRM with analytics & RBAC | Next.js · MongoDB · Azure |
+```
+languages/    development/    databases/    cloud_devops/
+```
+
+```bash
+santosh@dev:~/Skills$ ls languages/
+```
+<p><img src="https://skillicons.dev/icons?i=cpp,js,ts,java,bash,python&theme=dark"/></p>
+
+```bash
+santosh@dev:~/Skills$ ls development/
+```
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,express,nestjs&theme=dark"/></p>
+
+```bash
+santosh@dev:~/Skills$ ls databases/
+```
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,supabase&theme=dark"/></p>
+
+```bash
+santosh@dev:~/Skills$ ls cloud_devops/
+```
+<p><img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,jenkins,git,linux&theme=dark"/></p>
+
+```bash
+santosh@dev:~/Skills$ cat protocols_and_infra.txt
+```
+```
+REST APIs · JWT / OAuth 2.0 · RBAC · GitHub Actions · Prometheus · Grafana k6 · Artillery
+```
 
 ---
 
-## 📊 GitHub Stats
+### `~$ cd Education && cat degree.md`
+
+> **Bachelor of Technology, Computer Science Engineering**
+> Graphic Era Hill University — Dehradun, India · *2021 – 2025*
+
+---
+
+### `~$ cd Achievements && cat *.md`
+
+```
+[✓] LeetCode: 1,200+ problems solved across graphs, DP, and trees (max rating 1800)
+[✓] HackerRank JavaScript Certified — closures, async programming, prototypes, ES6+
+[✓] Pull Shark ×2 — Open Source Contributor
+```
+🔗 [View HackerRank Certificate](https://www.hackerrank.com/certificates/iframe/fa2408728647)
+
+---
+
+### `~$ cat contact.txt`
+
+```
+name      : Santosh Pathak
+email     : pathaksantosh987@gmail.com
+portfolio : https://santosh-pathak-portfolio.vercel.app/
+linkedin  : https://www.linkedin.com/in/santosh-pathak-dev/
+github    : https://github.com/Santosh-Pathak
+leetcode  : https://leetcode.com/u/21011177/
+```
 
 <div align="center">
+<a href="https://santosh-pathak-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/santosh-pathak-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pathaksantosh987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/21011177/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</div>
 
+---
+
+### `~$ ./system_stats.sh --verbose`
+
+<div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Santosh-Pathak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh-Pathak&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
-
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Pathak&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh-Pathak&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Pathak&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santosh-Pathak&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Santosh-Pathak&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="95%"/>
 </div>
 
 ---
 
-## 🏆 Trophies
+### `~$ ./contribution_snake.sh`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santosh-Pathak&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Santosh-Pathak/Santosh-Pathak/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
+
+> ⚙️ **One-time setup** so the snake above actually renders in your **profile repo** (`Santosh-Pathak/Santosh-Pathak`):
+> 1. **Settings → Actions → General** → enable *"Read and write permissions"* for `GITHUB_TOKEN`
+> 2. Add `.github/workflows/snake.yml` (below), commit it, then run it once from the **Actions** tab
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake game from a GitHub user's contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Santosh-Pathak
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push the generated files to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%"/>
-
-*"Infrastructure is code. Scalability is a mindset."*
-
-</div>
+```bash
+santosh@dev:~$ echo "thanks for stopping by"
+> thanks for stopping by
+santosh@dev:~$ █
+```
