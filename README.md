@@ -74,48 +74,6 @@ santosh@dev:~/Experience$ cat tbi_geu_intern.md
 
 ---
 
-### `~$ cd Projects && ls -la`
-
-```
--rwxr-xr-x  easyshop.md        Apr 2026 – Present
--rwxr-xr-x  wanderlust.md
--rwxr-xr-x  codeforces_insights.md
--rwxr-xr-x  jobhunt.md
-```
-
-```bash
-santosh@dev:~/Projects$ cat easyshop.md
-```
-> ### 🛒 [EasyShop — E-Commerce Platform](https://github.com/Santosh-Pathak/E-Commerce-App)
-> `Next.js` `TypeScript` `MongoDB` `Docker` `Terraform` `Kubernetes` `AWS EC2`
-> - Full-stack e-commerce platform with RESTful services for auth, product search, cart management, and order tracking
-> - Reduced Docker image size by **70%** via multi-stage builds; deployed to AWS EKS with a Jenkins CI/CD pipeline using Groovy-based shared libraries for build, test, and Trivy security scanning
-
-```bash
-santosh@dev:~/Projects$ cat wanderlust.md
-```
-> ### ✈️ [WanderLust — Travel Blogging Platform](https://github.com/Santosh-Pathak/WanderLust)
-> `MERN` `Cloudinary`
-> - Full-stack travel blogging platform with auth, image upload/storage, and full CRUD for listings, structured with clean, modular MVC architecture
-> - Integrated Cloudinary for image delivery and solved an N+1 query problem to optimize MongoDB reads; containerized with automated build/test/deploy
-
-```bash
-santosh@dev:~/Projects$ cat codeforces_insights.md
-```
-> ### 📊 [Codeforces Insights — Competitive Programming Analytics](https://github.com/Santosh-Pathak/Codeforces-Profile-Visualizer)
-> `React` `Chart.js` `Vitest`
-> - Responsive React SPA consuming the Codeforces REST API to visualize rating history, contest analytics, submission heatmaps, and tag strengths across 20+ interactive sections
-> - Lazy-loaded routes, memoized charts, and virtualized tables (`react-window`); unit + property-based tests (`Vitest` + `fast-check`); deployed on Vercel
-
-```bash
-santosh@dev:~/Projects$ cat jobhunt.md
-```
-> ### 🏢 [JobHunt — MERN Job Portal](https://github.com/Santosh-Pathak/jobHunt)
-> `MERN` `Docker` `Jest`
-> - Full-stack job portal for recruiters to post/manage listings and jobseekers to search, filter, and apply in real time
-
----
-
 ### `~$ cd Skills && ls`
 
 ```
